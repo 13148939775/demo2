@@ -1,0 +1,14 @@
+{
+    "name": "13148939775/demo2",
+    "description": "composer2",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "13148939775",
+            "email": "w1077@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
